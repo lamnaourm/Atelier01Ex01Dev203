@@ -53,7 +53,7 @@ const CalculPTTC = () => {
   );
 };
 function App() {
-  return <div>
+  return <div className="container">
     <CalculPTTC/>
   </div>;
 }
